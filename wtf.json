@@ -5,7 +5,8 @@
         "I'd murder someone for",
         "One time I was so high I ate",
         "Have you ever tried",
-	"Don't tell anyone but you can get"
+	"Don't tell anyone but you can get",
+	"Remember that summer when everything we ate was"
     ],
 
     "response": [
@@ -13,22 +14,32 @@
         "I have a better idea",
         "I'm on a diet",
         "I can't eat that, I have celiacs",
-	"I'm gonna barf"
+	"I'm gonna barf",
+	"I don't think I'm high enough for that"
     ],
 
     "template": [
         "@mainCourse smothered in @sauce",
-        "@mainCourse stuffed with @sauce",
+        "@mainCourse stuffed with @side and @sauce",
         "@mainCourse deep-fried and garnished with @sauce",
         "a @mainCourse sandwich with @mainCourse for the handles",
         "@mainCourse stacked on top of @mainCourse, then just fuck it up with @sauce",
-	"chopped up @mainCourse added to a big bowl of @mainCourse and then drenched with some @sauce"
+	"chopped up @mainCourse added to a big bowl of @mainCourse and then drenched with some @sauce",
+	"@mainCourse wrapped in @wrap",
+	"@side covered with @sauce wrapped in @wrap"
     ],
 
     "mainCourse": [
         "cheese coneys",
         "pizza",
-        "a whole rotisserie chicken"
+        "a whole rotisserie chicken",
+	"Big Macs"
+    ],
+
+    "side": [
+	"cheese sticks",
+	"french fries",
+	"potato skins"
     ],
 
     "sauce": [
@@ -36,6 +47,15 @@
         "mac sauce",
         "horsey sauce",
         "queso",
-        "mayonaise"
-    ]
+        "mayonaise",
+	"hot sauce",
+	"bread crumbs"
+    ],
+
+    "wrap": [
+	"lettuce",
+	"bacon",
+	"a tortilla",
+	"Kraft American singles"
+    ]	
 }
