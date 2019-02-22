@@ -1,0 +1,41 @@
+{
+    "heading": [
+        "I'm fucking hungry for",
+        "I wanna smash",
+        "I'd murder someone for",
+        "One time I was so high I ate",
+        "Have you ever tried",
+	"Don't tell anyone but you can get"
+    ],
+
+    "response": [
+        "Yeah, it wasn't that good",
+        "I have a better idea",
+        "I'm on a diet",
+        "I can't eat that, I have celiacs",
+	"I'm gonna barf"
+    ],
+
+    "template": [
+        "@mainCourse smothered in @sauce",
+        "@mainCourse stuffed with @sauce",
+        "@mainCourse deep-fried and garnished with @sauce",
+        "a @mainCourse sandwich with @mainCourse for the handles",
+        "@mainCourse stacked on top of @mainCourse, then just fuck it up with @sauce",
+	"chopped up @mainCourse added to a big bowl of @mainCourse and then drenched with some @sauce"
+    ],
+
+    "mainCourse": [
+        "cheese coneys",
+        "pizza",
+        "a whole rotisserie chicken"
+    ],
+
+    "sauce": [
+        "skyline chili",
+        "mac sauce",
+        "horsey sauce",
+        "queso",
+        "mayonaise"
+    ]
+}
