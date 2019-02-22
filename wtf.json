@@ -32,7 +32,8 @@
 	"@side covered with @sauce wrapped in @wrap",
 	"@sauce and @sauce smeared on @wrap",
 	"Kebabs made of @side, @side, and @mainCourse",
-	"A mug full of fucking @sauce"
+	"A mug full of fucking @sauce",
+	"Lasagna made of @mainCourse and @sauce, seperated by @wrap
     ],
 
     "mainCourse": [
@@ -58,7 +59,8 @@
 	"double stuff'd oreos",
 	"an entire bag of pizza rolls",
 	"grippos",
-	"gyro meat"
+	"gyro meat",
+	"cheese curds"
     ],
 
     "sauce": [
@@ -76,13 +78,14 @@
 	"tzaziki",
 	"barbeque sauce",
 	"chimichurri",
-	"peanut butter"
+	"peanut butter",
+	"gravy"
     ],
 
     "wrap": [
 	"lettuce",
 	"bacon",
-	"a tortilla",
+	"tortillas",
 	"Kraft American singles",
 	"bologna slices"
     ]
