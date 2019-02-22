@@ -43,7 +43,11 @@
 	"cheese sticks",
 	"french fries",
 	"potato skins",
-	"a shitload of chicken nuggets"
+	"a shitload of chicken nuggets",
+	"onion rings",
+	"jalapeno poppers",
+	"mini corndogs",
+	"pickle chips"
     ],
 
     "sauce": [
@@ -60,6 +64,7 @@
 	"lettuce",
 	"bacon",
 	"a tortilla",
-	"Kraft American singles"
-    ]	
+	"Kraft American singles",
+	"bologna slices"
+    ]
 }
