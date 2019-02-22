@@ -54,7 +54,8 @@
 	"pickle chips",
 	"mac 'n cheese",
 	"double stuff'd oreos",
-	"a bag of pizza rolls"
+	"a bag of pizza rolls",
+	"grippos"
     ],
 
     "sauce": [
@@ -66,7 +67,11 @@
 	"hot sauce",
 	"bread crumbs",
 	"shredded cheese",
-	"taco seasoning"
+	"taco seasoning",
+	"beer cheese",
+	"tons of ranch",
+	"tzaziki",
+	"barbeque sauce"
     ],
 
     "wrap": [
