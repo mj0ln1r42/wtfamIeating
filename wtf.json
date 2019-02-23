@@ -1,92 +1,86 @@
 {
-    "heading": [
-        "I'm fucking hungry for",
-        "I wanna smash",
-        "I'd murder someone for",
-        "One time I was so high I ate",
-        "Have you ever tried",
-	"Don't tell anyone but you can get",
-	"Remember that summer when everything we ate was",
-	"You know what sounds super good right now?",
-	"So for lunch I was thinking"
-    ],
-
-    "response": [
-        "Yeah, it wasn't that good",
-        "I have a better idea",
-        "I'm on a diet",
-        "I can't eat that, I have celiacs",
-	"I'm gonna barf",
-	"I don't think I'm high enough for that",
-	"Is that on the secret-menu?"
-    ],
-
-    "template": [
-        "@mainCourse smothered in @sauce",
-        "@mainCourse stuffed with @side and @sauce",
-        "@mainCourse deep-fried and garnished with @sauce",
-        "@side on a sandwich with @mainCourse for the buns",
-        "@mainCourse stacked on top of @mainCourse, then just fuck it up with @sauce",
-	"@mainCourse chopped up and added to a big bowl of @mainCourse and then drenched with @sauce",
-	"@mainCourse wrapped in @wrap",
-	"@side covered with @sauce and wrapped in @wrap",
-	"@sauce and @sauce smeared on @wrap",
-	"Kebabs made of @side, @side, and @mainCourse",
-	"A mug full of fucking @sauce",
-	"Lasagna made of @mainCourse and @sauce, seperated by @wrap"
-    ],
-
-    "mainCourse": [
-        "cheese coneys",
-        "pizza",
-        "a whole rotisserie chicken",
-	"Big Macs",
-	"Totino's Party Pizzas",
-	"little whitecastle cheeseburgers",
-	"A McRib"
-    ],
-
-    "side": [
-	"cheese sticks",
-	"french fries",
-	"potato skins",
-	"a shitload of chicken nuggets",
-	"onion rings",
-	"jalapeno poppers",
-	"mini corndogs",
-	"pickle chips",
-	"mac 'n cheese",
-	"double stuff'd oreos",
-	"an entire bag of pizza rolls",
-	"grippos",
-	"gyro meat",
-	"cheese curds"
-    ],
-
-    "sauce": [
-        "skyline chili",
-        "mac sauce",
-        "horsey sauce",
-        "queso",
-        "mayonaise",
-	"hot sauce",
-	"bread crumbs",
-	"nacho cheese",
-	"taco seasoning",
-	"beer cheese",
-	"tons of ranch",
-	"tzaziki",
-	"barbeque sauce",
-	"chimichurri",
-	"peanut butter",
-	"gravy"
-    ],
-
-    "wrap": [
-	"lettuce",
-	"bacon",
-	"tortillas",
-	"Kraft American singles",
-	"bologna slices"
-    ]
+	"heading": [
+		"I'm fucking hungry for",
+		"I wanna smash",
+		"I'd murder someone for",
+		"One time I was so high I ate",
+		"Have you ever tried",
+		"Don't tell anyone but you can get",
+		"Remember that summer when everything we ate was",
+		"You know what sounds super good right now?",
+		"So for lunch I was thinking"
+	],
+	"response": [
+		"Yeah, it wasn't that good",
+		"I have a better idea",
+		"I'm on a diet",
+		"I can't eat that, I have celiacs",
+		"I'm gonna barf",
+		"I don't think I'm high enough for that",
+		"Is that on the secret-menu?"
+	],
+	"template": [
+		"@mainCourse smothered in @sauce",
+		"@mainCourse stuffed with @side and @sauce",
+		"@mainCourse deep-fried and garnished with @sauce",
+		"@side on a sandwich with @mainCourse for the buns",
+		"@mainCourse stacked on top of @mainCourse, then just fuck it up with @sauce",
+		"@mainCourse chopped up and added to a big bowl of @mainCourse and then drenched with @sauce",
+		"@mainCourse wrapped in @wrap",
+		"@side covered with @sauce and wrapped in @wrap",
+		"@sauce and @sauce smeared on @wrap",
+		"Kebabs made of @side, @side, and @mainCourse",
+		"A mug full of fucking @sauce",
+		"Lasagna made of @mainCourse and @sauce, seperated by @wrap"
+	],
+	"mainCourse": [
+		"cheese coneys",
+		"pizza",
+		"a whole rotisserie chicken",
+		"Big Macs",
+		"Totino's Party Pizzas",
+		"little whitecastle cheeseburgers",
+		"A McRib"
+	],
+	"side": [
+		"cheese sticks",
+		"french fries",
+		"potato skins",
+		"a shitload of chicken nuggets",
+		"onion rings",
+		"jalapeno poppers",
+		"mini corndogs",
+		"pickle chips",
+		"mac 'n cheese",
+		"double stuff'd oreos",
+		"an entire bag of pizza rolls",
+		"grippos",
+		"gyro meat",
+		"cheese curds"
+	],
+	"sauce": [
+		"skyline chili",
+		"mac sauce",
+		"horsey sauce",
+		"queso",
+		"mayonaise",
+		"hot sauce",
+		"bread crumbs",
+		"nacho cheese",
+		"taco seasoning",
+		"beer cheese",
+		"tons of ranch",
+		"tzaziki",
+		"barbeque sauce",
+		"chimichurri",
+		"peanut butter",
+		"gravy"
+	],
+	"wrap": [
+		"lettuce",
+		"bacon",
+		"tortillas",
+		"Kraft American singles",
+		"bologna slices"
+	]
 }
