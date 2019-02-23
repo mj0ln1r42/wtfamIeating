@@ -31,7 +31,9 @@
 		"@sauce and @sauce smeared on @wrap",
 		"Kebabs made of @side, @side, and @mainCourse",
 		"A mug full of fucking @sauce",
-		"Lasagna made of @mainCourse and @sauce, seperated by @wrap"
+		"Lasagna made of @mainCourse and @sauce, seperated by @wrap",
+		"a pizza but instead of sauce use @sauce and top it with @side and @side",
+		"@mainCourse marinated in @sauce and stuffed with @side"
 	],
 	"mainCourse": [
 		"cheese coneys",
@@ -40,7 +42,12 @@
 		"Big Macs",
 		"Totino's Party Pizzas",
 		"little whitecastle cheeseburgers",
-		"A McRib"
+		"A McRib",
+		"a chipotle burrito bowl",
+		"baconators",
+		"little ceasar's $5 hot and ready pizza",
+		"extra thick chili",
+		"chili dogs"
 	],
 	"side": [
 		"cheese sticks",
@@ -56,7 +63,13 @@
 		"an entire bag of pizza rolls",
 		"grippos",
 		"gyro meat",
-		"cheese curds"
+		"cheese curds",
+		"curly fries",
+		"poutine",
+		"hot cheetos",
+		"hot fries",
+		"whole sticks of butter",
+		"little ceasar's crazy bread"
 	],
 	"sauce": [
 		"skyline chili",
@@ -74,13 +87,16 @@
 		"barbeque sauce",
 		"chimichurri",
 		"peanut butter",
-		"gravy"
+		"gravy",
+		"pizza sauce",
+		"skyline chili"
 	],
 	"wrap": [
 		"lettuce",
 		"bacon",
 		"tortillas",
 		"Kraft American singles",
-		"bologna slices"
+		"bologna slices",
+		"burger meat"
 	]
 }
