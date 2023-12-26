@@ -17,7 +17,10 @@
 		"I can't eat that, I have celiacs",
 		"I'm gonna barf",
 		"I don't think I'm high enough for that",
-		"Is that on the secret-menu?"
+		"Is that on the secret-menu?",
+		"I don't have the stuff to make that",
+		"I made a promised I'd stop eating that",
+		"Is there a vegan-friendly option?"
 	],
 	"template": [
 		"@mainCourse smothered in @sauce",
@@ -33,7 +36,9 @@
 		"A mug full of fucking @sauce",
 		"Lasagna made of @mainCourse and @sauce, seperated by @wrap",
 		"a pizza but instead of sauce use @sauce and top it with @side and @side",
-		"@mainCourse marinated in @sauce and stuffed with @side"
+		"@mainCourse marinated in @sauce and stuffed with @side",
+		"@side a la mode",
+		"Deep fried @side with a @sauce drizzle"
 	],
 	"mainCourse": [
 		"cheese coneys",
@@ -69,7 +74,8 @@
 		"hot cheetos",
 		"hot fries",
 		"whole sticks of butter",
-		"little ceasar's crazy bread"
+		"little ceasar's crazy bread",
+		"oatmeal cream pies"
 	],
 	"sauce": [
 		"skyline chili",
@@ -89,7 +95,8 @@
 		"peanut butter",
 		"gravy",
 		"pizza sauce",
-		"skyline chili"
+		"skyline chili",
+		"garlic aioli"
 	],
 	"wrap": [
 		"lettuce",
@@ -97,6 +104,8 @@
 		"tortillas",
 		"Kraft American singles",
 		"bologna slices",
-		"burger meat"
+		"burger meat",
+		"honey baked ham",
+		"extra thick cut pepperonis"
 	]
 }
