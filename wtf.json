@@ -19,7 +19,7 @@
 		"I don't think I'm high enough for that",
 		"Is that on the secret-menu?",
 		"I don't have the stuff to make that",
-		"I made a promised I'd stop eating that",
+		"I made a promise I'd stop eating that",
 		"Is there a vegan-friendly option?"
 	],
 	"template": [
@@ -37,8 +37,7 @@
 		"Lasagna made of @mainCourse and @sauce, seperated by @wrap",
 		"a pizza but instead of sauce use @sauce and top it with @side and @side",
 		"@mainCourse marinated in @sauce and stuffed with @side",
-		"@side a la mode",
-		"Deep fried @side with a @sauce drizzle"
+		"@side a la mode"
 	],
 	"mainCourse": [
 		"cheese coneys",
@@ -105,7 +104,6 @@
 		"Kraft American singles",
 		"bologna slices",
 		"burger meat",
-		"honey baked ham",
-		"extra thick cut pepperonis"
+		"honey baked ham"
 	]
 }
